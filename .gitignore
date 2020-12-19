@@ -1,0 +1,9 @@
+bin/*
+.vscode/
+docs/*.html
+docs/*.js
+docs/*.css
+docs/package-list
+javadoc/*.html
+javadoc/*.css
+javadoc/*.js
